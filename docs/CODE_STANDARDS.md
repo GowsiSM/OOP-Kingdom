@@ -117,8 +117,6 @@ void testSerialization() throws Exception {
 }
 ```
 
-> 🔧 New to Jackson? Read [JACKSON_GUIDE.md](JACKSON_GUIDE.md) before writing your tests.
-
 ---
 
 ## 4. Documentation (JavaDoc)
