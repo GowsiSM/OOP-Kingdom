@@ -31,8 +31,9 @@ mvn clean test
 
 ---
 
-## 📊 UML Diagram
-*Attach your UML diagram here showing how your class relates to KingdomEntity, CityHall, and other entities.*
+## 📊 UML Diagram (Optional)
+
+*Attach a Mermaid UML diagram here showing how your class relates to KingdomEntity, CityHall, and other entities. Not required, but earns 10 bonus points in the review rubric.*
 
 ```mermaid
 classDiagram
@@ -62,7 +63,7 @@ classDiagram
 
 **CI & Documentation:**
 - [ ] CI passes (GitHub Actions)
-- [ ] UML diagram included showing class relationships
+- [ ] UML diagram included showing class relationships (optional, +10 pts)
 - [ ] No modifications to README, pom.xml, Main.java, or other core files
 - [ ] `contributors.json` updated (name added, or appended with comma if extending an existing class)
 - [ ] Commit message(s) are clear and descriptive

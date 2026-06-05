@@ -16,7 +16,7 @@ Welcome, Builder! This guide covers everything you need to submit a high-quality
 - [ ] **Add a `static` registration block** — `KingdomRegistry.register(YourClass.class);`
 - [ ] **Write unit tests** — constructor, contract methods, extra methods, Jackson serialization
 - [ ] **Run tests** — `cd kingdom && mvn clean test` (all must pass)
-- [ ] **Create a UML diagram** — Mermaid classDiagram showing your hierarchy
+- [ ] **Create a UML diagram** (optional, +10 pts) — Mermaid classDiagram showing your hierarchy
 - [ ] **Update [`contributors.json`](../contributors.json)** — add your GitHub username
 - [ ] **Open a PR** using the [PR Template](PULL_REQUEST_TEMPLATE.md)
 
@@ -82,9 +82,9 @@ All tests must pass. PRs with failing tests are rejected.
 
 ---
 
-## 📊 UML Diagram
+## 📊 UML Diagram (Optional — +10 Points)
 
-Every PR must include a Mermaid class diagram. Show your class, its contract parent, and the `KingdomEntity` interface.
+A Mermaid class diagram earns bonus review points. Not required, but recommended.
 
 ```mermaid
 classDiagram
@@ -117,7 +117,7 @@ Add yourself to [`contributors.json`](../contributors.json):
 | Modifying core files | Maintainer-only — breaks the kingdom |
 | Multiple entities in one PR | Impossible to review fairly |
 | No tests / untested extra methods | Quality gate violation |
-| No UML diagram | Documentation requirement |
+| No UML diagram | No penalty — just miss out on 10 bonus points |
 | Overwriting contributors.json | Rewrites another builder's credit |
 | Plagiarism / AI-generated code | Immediate permanent ban |
 

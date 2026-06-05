@@ -10,7 +10,7 @@ All Pull Requests in the OOP Kingdom are reviewed and scored by the community ba
 | **Follows quest requirements** | 10 | Does the entity fulfill all the functional requirements outlined in the weekly quest? |
 | **OOP quality** | 20 | Proper use of Single Responsibility Principle (SRP), encapsulation, inheritance, and polymorphism. |
 | **Extensibility** | 10 | Can future contributors easily build upon, extend, or interact with this class? Custom extra methods are highly encouraged and can earn full points here. |
-| **UML accuracy** | 10 | Does the provided UML diagram accurately reflect the implemented Java code? |
+| UML accuracy | 10 | Does the provided UML diagram accurately reflect the implemented Java code? **Optional** — 0 points if no diagram is submitted |
 | **Naming & readability** | 10 | Clean code, descriptive variable/method names, and appropriate JavaDocs. |
 
 ## Review Process

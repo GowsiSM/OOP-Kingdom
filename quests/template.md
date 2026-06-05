@@ -31,7 +31,7 @@ Use this checklist when submitting your Pull Request. A focused PR makes communi
 - [ ] `cd kingdom && mvn exec:java -Dexec.mainClass="kingdom.Main"` — boots successfully
 
 ### Documentation
-- [ ] Mermaid UML diagram included in PR description
+- [ ] Mermaid UML diagram included in PR description (optional, +10 pts)
 - [ ] Design decisions explained
 
 ### contributors.json

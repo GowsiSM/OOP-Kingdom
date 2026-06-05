@@ -30,7 +30,7 @@ The kingdom requires its foundational structures to support the growing populati
    mvn exec:java -Dexec.mainClass="kingdom.Main"
    ```
 7. **Update [`contributors.json`](../contributors.json):** `"YourClass": "YourGitHubUsername"`
-8. **Create a UML diagram** showing your class hierarchy
+8. **Create a UML diagram** (optional — earns bonus points during review)
 9. **Submit a PR** using the [PR Template](../.github/PULL_REQUEST_TEMPLATE.md)
 
 ---
